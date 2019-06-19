@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "341746354783",
+    "firebase_url": "https://etec-boa-viagem.firebaseio.com",
+    "project_id": "etec-boa-viagem",
+    "storage_bucket": "etec-boa-viagem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341746354783:android:529745bcb559940b",
+        "android_client_info": {
+          "package_name": "br.com.etechoracio.etec_boaviagemgustavoxavier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341746354783-8ui335rcr3lmipv7v95r7kuu0dejvt23.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.etechoracio.etec_boaviagemgustavoxavier",
+            "certificate_hash": "6c27e96497b2c62e1911f45f543cdb1b6875accc"
+          }
+        },
+        {
+          "client_id": "341746354783-nr4hkfg5p9kid4mdmfg6lra81jjnmv6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvxVW27Pz8cX216_XGhfgWxnMfy21p4xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341746354783-nr4hkfg5p9kid4mdmfg6lra81jjnmv6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
